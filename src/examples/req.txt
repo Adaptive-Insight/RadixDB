@@ -1,3 +1,0 @@
-tiingo
-orjson
-asyncpg
